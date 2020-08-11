@@ -65,7 +65,7 @@ Please submit a pull request if there is any material that you think should be i
 ### Books
 
 - Stanford [Database Systems: The Complete Book](http://infolab.stanford.edu/~ullman/dscb.html)
-- [Designing Data-Intensive Applications](http://shop.oreilly.com/product/0636920032175.do), [中文翻译](https://github.com/Vonng/ddia)
+- [Designing Data-Intensive Applications](http://shop.oreilly.com/product/0636920032175.do)
 - [Database Internals](https://www.oreilly.com/library/view/database-internals/9781492040330/)
 - [Foundations of Databases](http://webdam.inria.fr/Alice/)
 - [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
@@ -101,18 +101,13 @@ Courses:
 
 Blogs:
 
-- [数据库内核杂谈](https://www.infoq.cn/theme/46), thanks to [顾仲贤](https://www.infoq.cn/profile/1780661/publish)
-    - [数据库内核杂谈（七）：数据库优化器（上）](https://www.infoq.cn/article/GhhQlV10HWLFQjTTxRtA)
-    - [数据库内核杂谈（八）：数据库优化器（下）](https://www.infoq.cn/article/JCJyMrGDQHl8osMFQ7ZR)
-- [SQL优化器原理 - 查询优化器综述](https://yq.aliyun.com/articles/610128), thanks to [勿烦](https://yq.aliyun.com/users/kyni3qcv656rk?spm=a2c4e.11153940.0.0.6adc1a8etfb0vx)
+TBD - FGrullon
 
 ### Planner Models
 
 Blogs:
 
-- [数据库内核杂谈](https://www.infoq.cn/theme/46), thanks to [顾仲贤](https://www.infoq.cn/profile/1780661/publish)
-    - [数据库内核杂谈（九）：开源优化器 ORCA](https://www.infoq.cn/article/5o16eHOZ5zk6FzPSJpT2)
-- [SQL 查询优化原理与 Volcano Optimizer 介绍](https://zhuanlan.zhihu.com/p/48735419), thanks to [张茄子](https://www.zhihu.com/people/chase-zh)
+TBD FGrullon
 - [Cascades Optimizer](https://zhuanlan.zhihu.com/p/73545345), thanks to [hellocode](https://www.zhihu.com/people/hellocode-ming)
 
 Papers:
@@ -134,9 +129,7 @@ Papers:
 
 Blogs:
 
-- [SQL 子查询的优化](https://zhuanlan.zhihu.com/p/60380557), thanks to [Eric Fu](https://www.zhihu.com/people/fuyufjh)
-- [Calcite 子查询处理 - I (RemoveSubQuery)](https://zhuanlan.zhihu.com/p/62338250), thanks to [一只无情的小猫咪](https://www.zhihu.com/people/loop_recur)
-- [Calcite 子查询处理 - II (Decorrelate)](https://zhuanlan.zhihu.com/p/66227661), thanks to [一只无情的小猫咪](https://www.zhihu.com/people/loop_recur)
+TBD - FGrullon
 
 Papers:
 
@@ -251,10 +244,6 @@ Papers:
 ## Transaction
 
 ### Isolation Levels
-
-Blogs:
-
-- [一致性模型](https://www.jianshu.com/p/3673e612cce2), thanks to [siddontang](https://www.jianshu.com/u/1yJ3ge)
 
 Papers:
 
